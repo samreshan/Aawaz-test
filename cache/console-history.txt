@@ -1,0 +1,9 @@
+await contract.getReport(0)
+(await contract.getReportCount()).toString()
+(await contract.getReportCount()).toString()await contract.getReport(0)
+await contract.getReport(0)
+(await contract.getReportCount()).toString()
+const contract = await Contract.attach("0x5fbdb2315678afecb367f032d93f642f64180aa3");
+const Contract = await ethers.getContractFactory("ReportLogger");
+const Contract = await ethers.getContractFactory("ReportLogger");const contract = await Contract.attach("0x5fbdb2315678afecb367f032d93f642f64180aa3");
+// Load contract artifactsconst Contract = await ethers.getContractFactory("ReportLogger");const contract = await Contract.attach("0x5fbdb2315678afecb367f032d93f642f64180aa3");// Call public functions(await contract.getReportCount()).toString()await contract.getReport(0)
